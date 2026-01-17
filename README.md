@@ -55,9 +55,12 @@ strong alignment between instruction, labs, and assessments.
 
 ## Artifacts Included
 
-- Screenshots of course modules and assignments
-- Sample lesson outlines and assessment materials
-- Documentation of instructional design decisions
+- Screenshots of course modules and assignments <img width="2813" height="6393" alt="image" src="https://github.com/user-attachments/assets/df899a46-27ec-4a87-adcf-a8353263a785" />
+
+- Sample lesson outlines and assessment materials <img width="3024" height="1504" alt="image" src="https://github.com/user-attachments/assets/7350b624-ed47-43ba-9324-430405e27ec4" />
+
+- Documentation of instructional design decisions <img width="3444" height="1716" alt="image" src="https://github.com/user-attachments/assets/c6321191-4c85-4471-b021-49597cb08782" />
+
 
 ---
 
